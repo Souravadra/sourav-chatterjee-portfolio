@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Sourav Chatterjee — Technical Product Manager specializing in retail technology, POS, payments, payment terminals and product strategy.">
+<title>Sourav Chatterjee | Technical Product Manager</title>
+<style>
+:root{--bg:#08111f;--card:#101c2d;--text:#edf4ff;--muted:#a8b6c9;--accent:#62b0ff;--line:#223149;--max:1080px}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:linear-gradient(180deg,#08111f 0%,#0b1626 55%,#08111f 100%);color:var(--text);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.6}
+a{color:inherit;text-decoration:none}.wrap{max-width:var(--max);margin:auto;padding:0 24px}
+nav{position:sticky;top:0;z-index:10;background:rgba(8,17,31,.88);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.nav{height:68px;display:flex;align-items:center;justify-content:space-between}.brand{font-weight:800;letter-spacing:.02em}.navlinks{display:flex;gap:22px;color:var(--muted);font-size:14px}.navlinks a:hover{color:var(--text)}
+.hero{padding:100px 0 75px;border-bottom:1px solid var(--line)}.eyebrow{color:var(--accent);font-weight:700;text-transform:uppercase;letter-spacing:.14em;font-size:13px}
+h1{font-size:clamp(42px,7vw,76px);line-height:1.02;margin:16px 0 20px;max-width:850px;letter-spacing:-.045em}
+.hero p{font-size:20px;color:var(--muted);max-width:760px}.buttons{display:flex;gap:12px;flex-wrap:wrap;margin-top:30px}.btn{padding:12px 18px;border:1px solid var(--line);border-radius:10px;font-weight:700}.primary{background:var(--accent);color:#06101c;border-color:var(--accent)}
+section{padding:76px 0;border-bottom:1px solid var(--line)}h2{font-size:32px;margin:0 0 28px;letter-spacing:-.02em}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.card{background:rgba(16,28,45,.78);border:1px solid var(--line);border-radius:16px;padding:24px}.card h3{margin:0 0 10px;font-size:19px}.card p{color:var(--muted);margin:0}
+.tags{display:flex;flex-wrap:wrap;gap:9px}.tag{border:1px solid var(--line);background:#0d1929;padding:8px 11px;border-radius:999px;color:#cbd8e8;font-size:13px}
+.timeline{display:grid;gap:20px}.role{display:grid;grid-template-columns:190px 1fr;gap:28px}.date{color:var(--accent);font-weight:700;font-size:14px}.role h3{margin:0 0 5px}.company{color:var(--muted);margin-bottom:12px}.role ul{margin:0;padding-left:19px;color:var(--muted)}.role li{margin:7px 0}
+.metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}.metric{padding:20px;border:1px solid var(--line);border-radius:14px}.metric strong{font-size:30px;display:block}.metric span{color:var(--muted);font-size:13px}
+footer{padding:35px 0;color:var(--muted);font-size:14px}
+@media(max-width:760px){.navlinks{display:none}.hero{padding-top:70px}.grid,.metrics{grid-template-columns:1fr 1fr}.role{grid-template-columns:1fr;gap:4px}}
+@media(max-width:480px){.grid,.metrics{grid-template-columns:1fr}h1{font-size:44px}}
+</style>
+</head>
+<body>
+<nav><div class="wrap nav"><a class="brand" href="#">Sourav Chatterjee</a><div class="navlinks"><a href="#about">About</a><a href="#expertise">Expertise</a><a href="#experience">Experience</a><a href="#certifications">Certifications</a><a href="#contact">Contact</a></div></div></nav>
+
+<header class="hero"><div class="wrap">
+<div class="eyebrow">Technical Product Manager · Retail Technology</div>
+<h1>Building better retail checkout, payments &amp; POS platforms.</h1>
+<p>Product Management and Retail Technology leader with 17+ years of experience across enterprise software, POS, payments, fuel, loyalty, omnichannel and retail technology platforms.</p>
+<div class="buttons"><a class="btn primary" href="#contact">Let's connect</a><a class="btn" href="https://www.linkedin.com/in/sourav-chatterjee-4b526a38/" target="_blank" rel="noopener">LinkedIn ↗</a></div>
+</div></header>
+
+<section id="about"><div class="wrap"><h2>About</h2><div class="card"><p>Experienced in owning product and technology strategy, defining product requirements, prioritizing roadmaps and backlogs, driving payment migrations and certifications, managing Payment Service Provider relationships, and leading cross-functional delivery across Engineering, UX, Quality, Operations and business teams.</p></div></div></section>
+
+<section id="expertise"><div class="wrap"><h2>Core expertise</h2><div class="grid">
+<div class="card"><h3>Payments</h3><p>EMV, PCI, encryption, payment processing, payment terminals, processor integrations and Level 3 certification.</p></div>
+<div class="card"><h3>Retail &amp; POS</h3><p>GK Omni Channel, SAP, Oracle XStore, NCR Fast Lane SCO, fuel, loyalty, BOPIS and omnichannel checkout.</p></div>
+<div class="card"><h3>Product Strategy</h3><p>Roadmaps, backlogs, requirements, customer value, business value, KPIs, Agile delivery and cross-functional leadership.</p></div>
+<div class="card"><h3>Cloud &amp; APIs</h3><p>AWS, Azure, API platforms, microservices, integration-layer modernization and scalable web services.</p></div>
+<div class="card"><h3>Partners</h3><p>Payment Service Provider relationships, integration requirements, SLAs, platform stability and certifications.</p></div>
+<div class="card"><h3>AI &amp; Automation</h3><p>AI-enabled testing and production-support tools, automation opportunities and technology lab prototyping.</p></div>
+</div></div></section>
+
+<section><div class="wrap"><div class="metrics">
+<div class="metric"><strong>17+</strong><span>Years of experience</span></div>
+<div class="metric"><strong>8,000</strong><span>Stores supported at Family Dollar</span></div>
+<div class="metric"><strong>96%</strong><span>SLA compliance achieved in production support</span></div>
+<div class="metric"><strong>AWS</strong><span>Certified Solutions Architect</span></div>
+</div></div></section>
+
+<section id="experience"><div class="wrap"><h2>Selected experience</h2><div class="timeline">
+<div class="role"><div class="date">Jun 2024 — Present</div><div><h3>POS/Payments &amp; Fuel Solutions Architect / Technical Product Manager</h3><div class="company">British Petroleum · Infovision Inc. · Dallas, TX</div><ul><li>Lead product and technology delivery for POS modernization, payments, fuel, loyalty and retail technology capabilities.</li><li>Define architecture and specifications for loyalty capabilities and drive integration-layer migration to AWS.</li><li>Drive backlog refinement, sprint planning, requirements, user stories and Definition of Done.</li><li>Established a POS/Fuel technology lab for prototype validation, quality engineering and rollout.</li></ul></div></div>
+<div class="role"><div class="date">Jul 2022 — Jun 2024</div><div><h3>POS/Payments &amp; Fuel Technical Product Owner</h3><div class="company">Meijer · Randstad Technologies · Grand Rapids, MI</div><ul><li>Defined technology strategy and architecture for an API, microservices and Azure cloud-based POS platform.</li><li>Led fuel payment processing migration from WorldPay to Aurus, including successful Level 3 processor certification.</li><li>Managed Payment Service Provider relationships, integration requirements, SLAs and platform stability.</li></ul></div></div>
+<div class="role"><div class="date">Oct 2020 — Jul 2022</div><div><h3>POS/Payments Technical Product Owner</h3><div class="company">Family Dollar · Miracle Software Systems · Virginia Beach, VA</div><ul><li>Led SAP POS enhancements and deployment across an 8,000-store retail network.</li><li>Executed payment processor migration from TransNet to Fiserv and implemented 3DES/AES-128 encryption on Verifone MX-915 terminals.</li><li>Led POS integration with NCR Self-Checkout, Oracle E-Commerce and BOPIS capabilities.</li></ul></div></div>
+<div class="role"><div class="date">Jun 2012 — Sep 2020</div><div><h3>POS/Payments Business Systems Analyst / Senior Technical Analyst</h3><div class="company">Fossil, Cabela's, TJX, Family Dollar · Cognizant Technology Solutions</div><ul><li>Led multi-geography Level 3 production support and problem management, achieving 96% SLA compliance.</li><li>Oversaw EMV, Store and Forward and PIN-less Debit functionality.</li><li>Directed POS enhancements including Tier Tax, Bounce Back Coupons and Digital Loyalty integration.</li></ul></div></div>
+</div></div></section>
+
+<section id="certifications"><div class="wrap"><h2>Certifications &amp; education</h2><div class="tags">
+<span class="tag">AWS Certified Solutions Architect – Associate</span><span class="tag">Professional Scrum Product Owner I</span><span class="tag">SAFe Agilist SA 5.0</span><span class="tag">Microsoft Azure Administrator Associate</span><span class="tag">Oracle Certified Associate — Java SE 8</span><span class="tag">MBA — Customer Relationship, Symbiosis (2015)</span>
+</div></div></section>
+
+<section><div class="wrap"><h2>Technology</h2><div class="tags">
+<span class="tag">EMV</span><span class="tag">PCI</span><span class="tag">P2PE</span><span class="tag">Fiserv</span><span class="tag">SVS</span><span class="tag">Incomm</span><span class="tag">Aurus</span><span class="tag">GK Omni Channel</span><span class="tag">SAP</span><span class="tag">Oracle XStore</span><span class="tag">NCR Fast Lane SCO</span><span class="tag">AWS</span><span class="tag">Azure</span><span class="tag">Kafka</span><span class="tag">Docker</span><span class="tag">Postman</span><span class="tag">Jira</span><span class="tag">SQL Server</span><span class="tag">Oracle</span>
+</div></div></section>
+
+<section id="contact"><div class="wrap"><h2>Let's connect</h2><div class="card"><p>Interested in retail technology, POS modernization, payments, product strategy or technical product leadership?</p><div class="buttons"><a class="btn primary" href="mailto:sourav.chemistry3@gmail.com">Email me</a><a class="btn" href="https://www.linkedin.com/in/sourav-chatterjee-4b526a38/" target="_blank" rel="noopener">LinkedIn</a></div></div></div></section>
+
+<footer><div class="wrap">© <span id="year"></span> Sourav Chatterjee · Technical Product Manager</div></footer>
+<script>document.getElementById("year").textContent=new Date().getFullYear();</script>
+</body></html>
